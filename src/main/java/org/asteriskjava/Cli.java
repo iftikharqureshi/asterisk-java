@@ -6,6 +6,8 @@ import java.util.Properties;
 
 import org.asteriskjava.fastagi.DefaultAgiServer;
 
+// v 2.2
+
 /**
  * Simple command line interface for Asterisk-Java. This class is run when
  * Asterisk-Java is started with {@code java -jar asterisk-java.jar}. It is
